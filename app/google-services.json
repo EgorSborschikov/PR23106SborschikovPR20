@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307701239965",
+    "project_id": "pr20-dba83",
+    "storage_bucket": "pr20-dba83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307701239965:android:89199ccdf39ecd72124474",
+        "android_client_info": {
+          "package_name": "com.company.pr20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_2R6viqBmQevPSB104uclv7P3qV8qmk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
